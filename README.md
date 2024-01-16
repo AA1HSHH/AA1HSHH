@@ -1,5 +1,11 @@
 ### Hi there 👋
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=AA1HSHH" /> </div>
+<!-- 贪吃蛇 - 图片由 actions/Generate Snake 定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+
 <!--
 **AA1HSHH/AA1HSHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
