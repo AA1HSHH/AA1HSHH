@@ -1,4 +1,6 @@
 ### Hi there 👋
+![](https://hit.yhype.me/github/profile?user_id=48511594)
+
 <!-- 贪吃蛇 - 图片由 actions/Generate Snake 定时生成 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
