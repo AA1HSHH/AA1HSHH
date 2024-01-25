@@ -10,6 +10,17 @@
 
 ---
 <!--START_SECTION:waka-->
+
+```txt
+From: 17 January 2024 - To: 24 January 2024
+
+Total Time: 11 mins
+
+Python     8 mins          >>>>>>>>>>>>>>>>>>-------   73.43 %
+Go         3 mins          >>>>>>>------------------   26.55 %
+Markdown   0 secs          -------------------------   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- <h3 align="left">Languages</h3>
