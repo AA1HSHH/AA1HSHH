@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2024 - To: 31 January 2024
+From: 25 January 2024 - To: 01 February 2024
 
-Total Time: 12 hrs 24 mins
+Total Time: 12 hrs 43 mins
 
-Go           4 hrs 53 mins   >>>>>>>>>>---------------   38.56 %
-Python       3 hrs 55 mins   >>>>>>>>-----------------   30.90 %
-Markdown     2 hrs 25 mins   >>>>>--------------------   19.13 %
-YAML         51 mins         >>-----------------------   06.76 %
-Other        17 mins         >------------------------   02.36 %
+Go           6 hrs 48 mins   >>>>>>>>>>>>>------------   52.89 %
+Python       4 hrs 6 mins    >>>>>>>>-----------------   31.89 %
+Markdown     1 hr 6 mins     >>-----------------------   08.56 %
+YAML         25 mins         >------------------------   03.28 %
+Other        8 mins          -------------------------   01.12 %
 ```
 
 <!--END_SECTION:waka-->
