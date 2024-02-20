@@ -12,16 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2024 - To: 18 February 2024
+From: 12 February 2024 - To: 19 February 2024
 
-Total Time: 1 hr 58 mins
+Total Time: 16 mins
 
-Go               1 hr 40 mins    >>>>>>>>>>>>>>>>>>>>>----   84.84 %
-Python           16 mins         >>>>---------------------   14.01 %
-SQL              1 min           -------------------------   01.08 %
-go.mod           0 secs          -------------------------   00.06 %
-YAML             0 secs          -------------------------   00.00 %
-GitIgnore file   0 secs          -------------------------   00.00 %
+Python   16 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
