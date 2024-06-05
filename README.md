@@ -12,15 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2024 - To: 03 June 2024
+From: 28 May 2024 - To: 04 June 2024
 
-Total Time: 4 hrs 13 mins
+Total Time: 3 hrs 29 mins
 
-Go               4 hrs 3 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   96.35 %
-YAML             4 mins          -------------------------   01.83 %
-Java             2 mins          -------------------------   00.98 %
-SQL              1 min           -------------------------   00.78 %
-GitIgnore file   0 secs          -------------------------   00.06 %
+Go   3 hrs 29 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
