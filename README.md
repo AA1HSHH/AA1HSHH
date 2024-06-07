@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2024 - To: 05 June 2024
+From: 30 May 2024 - To: 06 June 2024
 
-Total Time: 2 hrs 58 mins
+Total Time: 2 hrs 16 mins
 
-Go     2 hrs 53 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   97.01 %
-Java   5 mins          >------------------------   02.99 %
+Go     2 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.10 %
+Java   5 mins          >------------------------   03.90 %
 ```
 
 <!--END_SECTION:waka-->
