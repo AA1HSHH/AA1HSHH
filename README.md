@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2024 - To: 17 June 2024
+From: 11 June 2024 - To: 18 June 2024
 
-Total Time: 1 hr 30 mins
+Total Time: 3 hrs 2 mins
 
-Python   1 hr 7 mins     >>>>>>>>>>>>>>>>>>>------   75.06 %
-Go       22 mins         >>>>>>-------------------   24.94 %
+Python   2 hrs 39 mins   >>>>>>>>>>>>>>>>>>>>>>---   87.65 %
+Go       22 mins         >>>----------------------   12.35 %
 ```
 
 <!--END_SECTION:waka-->
