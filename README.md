@@ -12,18 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2024 - To: 21 September 2024
+From: 15 September 2024 - To: 22 September 2024
 
-Total Time: 5 hrs 32 mins
+Total Time: 5 hrs 24 mins
 
-Go               4 hrs 56 mins   >>>>>>>>>>>>>>>>>>>>>>---   89.32 %
-Text             11 mins         >------------------------   03.50 %
-YAML             11 mins         >------------------------   03.31 %
-Markdown         7 mins          >------------------------   02.26 %
-Python           3 mins          -------------------------   00.92 %
-go.mod           1 min           -------------------------   00.45 %
-GitIgnore file   0 secs          -------------------------   00.21 %
-JSON             0 secs          -------------------------   00.03 %
+Go               5 hrs 7 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   94.55 %
+Text             11 mins         >------------------------   03.54 %
+Python           3 mins          -------------------------   00.94 %
+go.mod           1 min           -------------------------   00.46 %
+Markdown         0 secs          -------------------------   00.29 %
+GitIgnore file   0 secs          -------------------------   00.22 %
 ```
 
 <!--END_SECTION:waka-->
