@@ -12,11 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 17 mins
 
-No activity tracked
+Go             43 mins         >>>>>>>>>>>>>>-----------   56.69 %
+Shell Script   12 mins         >>>>---------------------   16.03 %
+Text           11 mins         >>>>---------------------   14.90 %
+Bash           9 mins          >>>----------------------   12.03 %
+Other          0 secs          -------------------------   00.35 %
 ```
 
 <!--END_SECTION:waka-->
