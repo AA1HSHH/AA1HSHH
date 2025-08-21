@@ -12,15 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 19 August 2025
+From: 13 August 2025 - To: 20 August 2025
 
-Total Time: 1 hr 17 mins
+Total Time: 1 hr 44 mins
 
-Go             43 mins         >>>>>>>>>>>>>>-----------   56.69 %
-Shell Script   12 mins         >>>>---------------------   16.03 %
-Text           11 mins         >>>>---------------------   14.90 %
-Bash           9 mins          >>>----------------------   12.03 %
-Other          0 secs          -------------------------   00.35 %
+Go               51 mins         >>>>>>>>>>>>-------------   46.64 %
+Shell Script     14 mins         >>>----------------------   13.36 %
+GitIgnore file   12 mins         >>>----------------------   10.85 %
+Text             11 mins         >>>----------------------   10.40 %
+Bash             9 mins          >>-----------------------   08.40 %
+Other            6 mins          >------------------------   05.55 %
 ```
 
 <!--END_SECTION:waka-->
