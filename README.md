@@ -12,13 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2025 - To: 26 August 2025
+From: 20 August 2025 - To: 27 August 2025
 
-Total Time: 4 hrs 45 mins
+Total Time: 4 hrs 17 mins
 
-Go               4 hrs 25 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.18 %
-GitIgnore file   12 mins         >------------------------   04.14 %
-Other            5 mins          >------------------------   02.03 %
+Go   4 hrs 17 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
