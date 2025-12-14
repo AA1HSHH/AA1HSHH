@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm AA1HSHH</h1>
-<h3 align="center">a programmer who likes to automate things with code</h3>
+<h3 align="center">ai infra beginer</h3>
 
-- 🌱 I’m currently learning **go,k8s**
-
-- 📝 I regularly write articles on [juejin.cn](https://juejin.cn/user/3526889035015582/posts)
+- 🌱 I’m currently learning **c++,cuda**
 
 - 📫 How to reach me **974658390@qq.com**
 
