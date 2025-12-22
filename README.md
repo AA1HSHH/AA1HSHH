@@ -10,17 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 20 December 2025
+From: 14 December 2025 - To: 21 December 2025
 
-Total Time: 2 hrs 28 mins
+Total Time: 2 hrs 7 mins
 
-Cuda          1 hr 52 mins    >>>>>>>>>>>>>>>>>>>------   75.96 %
-Python        20 mins         >>>>---------------------   14.00 %
-Markdown      14 mins         >>-----------------------   09.90 %
-C++           0 secs          -------------------------   00.04 %
-Text          0 secs          -------------------------   00.04 %
-Objective-C   0 secs          -------------------------   00.03 %
-JSON          0 secs          -------------------------   00.03 %
+Cuda   2 hrs 6 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   98.68 %
+JSON   1 min           -------------------------   01.32 %
 ```
 
 <!--END_SECTION:waka-->
