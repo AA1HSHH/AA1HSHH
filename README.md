@@ -10,14 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2025 - To: 26 December 2025
+From: 20 December 2025 - To: 27 December 2025
 
-Total Time: 3 hrs 3 mins
+Total Time: 2 hrs 53 mins
 
-Cuda          2 hrs 42 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.82 %
-C             17 mins         >>-----------------------   09.67 %
-JSON          1 min           -------------------------   00.92 %
-Markdown      1 min           -------------------------   00.56 %
+Cuda          2 hrs 33 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.19 %
+C             17 mins         >>>----------------------   10.21 %
+JSON          1 min           -------------------------   00.97 %
+Markdown      1 min           -------------------------   00.59 %
 Objective-C   0 secs          -------------------------   00.03 %
 ```
 
