@@ -10,13 +10,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 31 December 2025
+From: 25 December 2025 - To: 01 January 2026
 
-Total Time: 18 mins
+Total Time: 57 mins
 
-C             17 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   94.20 %
-Markdown      1 min           >------------------------   05.49 %
-Objective-C   0 secs          -------------------------   00.31 %
+Cuda                               38 mins         >>>>>>>>>>>>>>>>>--------   67.14 %
+C                                  17 mins         >>>>>>>>-----------------   30.88 %
+Markdown                           1 min           -------------------------   01.80 %
+Objective-C                        0 secs          -------------------------   00.10 %
+XML                                0 secs          -------------------------   00.05 %
+Microsoft Visual Studio Solution   0 secs          -------------------------   00.03 %
 ```
 
 <!--END_SECTION:waka-->
