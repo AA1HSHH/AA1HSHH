@@ -10,13 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2025 - To: 05 January 2026
+From: 30 December 2025 - To: 06 January 2026
 
-Total Time: 41 mins
+Total Time: 1 hr 24 mins
 
-Cuda                               41 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.89 %
-XML                                0 secs          -------------------------   00.07 %
-Microsoft Visual Studio Solution   0 secs          -------------------------   00.04 %
+C++                                42 mins         >>>>>>>>>>>>>------------   50.42 %
+Cuda                               41 mins         >>>>>>>>>>>>-------------   49.53 %
+XML                                0 secs          -------------------------   00.03 %
+Microsoft Visual Studio Solution   0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
