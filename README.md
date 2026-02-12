@@ -10,13 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2026 - To: 10 February 2026
+From: 04 February 2026 - To: 11 February 2026
 
-Total Time: 42 mins
+Total Time: 52 mins
 
-RGBDS Assembly   42 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.93 %
-Gerber Image     0 secs          -------------------------   00.04 %
-Scilab           0 secs          -------------------------   00.03 %
+RGBDS Assembly   42 mins         >>>>>>>>>>>>>>>>>>>>-----   79.99 %
+C++              10 mins         >>>>>--------------------   19.96 %
+Gerber Image     0 secs          -------------------------   00.03 %
+Scilab           0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
