@@ -10,11 +10,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2026 - To: 12 April 2026
+From: 06 April 2026 - To: 13 April 2026
 
-Total Time: 36 mins
+Total Time: 6 mins
 
-Other        26 mins               >>>>>>>>>>>--------------   42.80 %
+Python   3 mins                >>>>>>>>>>>--------------   43.90 %
+Bash     2 mins                >>>>>>>>-----------------   30.06 %
+JSON     1 min                 >>>>>--------------------   18.22 %
+Other    0 secs                >>-----------------------   07.82 %
 ```
 
 <!--END_SECTION:waka-->
